@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi I'm Yu Ming 👋
 
+🌱 I'm currently in High School.
+🤔 I'm interested in math and computer science, specifically software development and artificial intelligence
+📫 How to reach me:
+  - WeChat: `ymlaw1125`
+  - Discord: `ymlaw1125`
 <!--
-**ymlaw1125/ymlaw1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

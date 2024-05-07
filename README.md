@@ -1,8 +1,8 @@
 ### Hi I'm Yu Ming 👋
 
-- 🌱 I'm currently in High School.
-- 🤔 I'm interested in math and computer science, specifically software development and artificial intelligence
-- 📫 How to reach me:
+🌱 I'm currently in High School. <br>
+🤔 I'm interested in math and computer science, specifically software development and artificial intelligence <br>
+📫 How to reach me:
   - WeChat: `ymlaw1125`
   - Discord: `ymlaw1125`
 <!--

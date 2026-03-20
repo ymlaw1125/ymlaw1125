@@ -1,10 +1,16 @@
-### Hi I'm Yu Ming 👋
+### Hi I'm Yu Ming
 
-🌱 I'm currently in High School. <br>
-🤔 I'm interested in math and computer science, specifically software development and artificial intelligence <br>
-📫 How to reach me:
+I'm a year CS student studying at HKUST. <br>
+I'm interested in full-stack development and artificial intelligence<br>
+I have experience with:
+  - Frontend: React, Flutter, HTML/CSS
+  - Backend: Django, Node.js
+  - Databases: SQLite, MySQL, Firebase
+
+How to reach me:
+  - Whatsapp: +85256177547
   - WeChat: `ymlaw1125`
-  - Discord: `ymlaw1125`
+  - Email: ymlawad@connect.ust.hk
 <!--
 
 - 🔭 I’m currently working on ...

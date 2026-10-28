@@ -1,11 +1,7 @@
 ### Hi I'm Yu Ming
 
-I'm a year CS student studying at HKUST. <br>
-I'm interested in full-stack development and artificial intelligence<br>
-I have experience with:
-  - Frontend: React, Flutter, HTML/CSS
-  - Backend: Django, Node.js
-  - Databases: SQLite, MySQL, Firebase
+I'm a second year CS student studying at HKUST. <br>
+I'm interested in algorithms and artificial intelligence<br>
 
 How to reach me:
   - Whatsapp: +85256177547
